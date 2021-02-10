@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\app_for_CD\app_for_CD\bin\Debug\app_for_CD.exe.config
+C:\Users\User\source\repos\app_for_CD\app_for_CD\bin\Debug\app_for_CD.exe
+C:\Users\User\source\repos\app_for_CD\app_for_CD\bin\Debug\app_for_CD.pdb
+C:\Users\User\source\repos\app_for_CD\app_for_CD\obj\Debug\app_for_CD.csprojAssemblyReference.cache
+C:\Users\User\source\repos\app_for_CD\app_for_CD\obj\Debug\app_for_CD.Properties.Resources.resources
+C:\Users\User\source\repos\app_for_CD\app_for_CD\obj\Debug\app_for_CD.csproj.GenerateResource.cache
+C:\Users\User\source\repos\app_for_CD\app_for_CD\obj\Debug\app_for_CD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\app_for_CD\app_for_CD\obj\Debug\app_for_CD.exe
+C:\Users\User\source\repos\app_for_CD\app_for_CD\obj\Debug\app_for_CD.pdb
+C:\Users\User\source\repos\app_for_CD\app_for_CD\obj\Debug\app_for_CD.Form_agreement.resources
+C:\Users\User\source\repos\app_for_CD\app_for_CD\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\source\repos\app_for_CD\app_for_CD\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\source\repos\app_for_CD\app_for_CD\obj\Debug\app_for_CD.csproj.CopyComplete
+C:\Users\User\source\repos\app_for_CD\app_for_CD\obj\Debug\app_for_CD.Add.resources
